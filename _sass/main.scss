@@ -76,6 +76,9 @@ blockquote {
     &:focus + .logo-prompt {
       display: inline-block !important;
     }
+    .gravatar-container{
+      background:transparent;
+    }
     .gravatar {
       margin-top: 5px;
       -webkit-border-radius: 50%;
